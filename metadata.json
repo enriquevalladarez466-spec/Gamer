@@ -1,0 +1,8 @@
+{
+  "name": "Android WebView Bridge - Optimizador de Batería",
+  "description": "Interfaz web y simulador para Android WebView con puente JavaScript (AndroidBridge.abrirAjustesBateria) y optimización de energía.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
